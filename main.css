@@ -86,6 +86,12 @@ table {
   *zoom:1;
 }
 
+section{
+  display:inline-block;
+  margin:0 1.5%;
+  width:30%;
+}
+
 /*
   ===============================================
   Typography
